@@ -1,8 +1,8 @@
-# Cyber Attack Analysis Dashboard 📊
+# Cyber Attack Analysis Dashboard 
 
 An interactive Power BI dashboard providing comprehensive insights into global cyber attack patterns, financial impacts, and industry-specific vulnerabilities.
 
-## 📋 Overview
+##  Overview
 This dashboard analyzes **50,000+ cyber incidents** with **$125.54B** in financial losses, affecting **3B+ users** globally. It provides actionable insights for cybersecurity professionals.
 
 ##  Key Metrics/KPIs
@@ -13,7 +13,7 @@ This dashboard analyzes **50,000+ cyber incidents** with **$125.54B** in financi
 - **Critical Incidents**: 12K
 - **Affected Users**: 3B+
 
-## 📊 Dashboard Visuals
+##  Dashboard Visuals
 
 ### 1. Executive Summary
 ### 2. Attack Analysis
@@ -22,7 +22,7 @@ This dashboard analyzes **50,000+ cyber incidents** with **$125.54B** in financi
 ### 5. Attack Vectors
 ### 6. Industry Targeting
 
-## 🛠️ Technical Implementation
+##  Technical Implementation
 
 ### Data Model
 - Fact table: Incidents
@@ -41,13 +41,13 @@ This dashboard analyzes **50,000+ cyber incidents** with **$125.54B** in financi
 - Matrix for detailed breakdowns
 - Slicers for interactive filtering
 
-## 🎯 Features
+##  Features
 - **Interactive filtering** by Country, Industry, Attack Type
 - **Drill-down capabilities** for deeper analysis
 - **Cross-filtering** across all visuals
 - **Responsive design** for different screen sizes
 
-## 📈 Insights & Applications
+##  Insights & Applications
 - Identify most vulnerable industries
 - Track attack pattern evolution
 - Optimize resource allocation for incident response

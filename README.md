@@ -3,7 +3,7 @@
 An interactive Power BI dashboard providing comprehensive insights into global cyber attack patterns, financial impacts, and industry-specific vulnerabilities.
 
 ## 📋 Overview
-This dashboard analyzes **50,000+ cyber incidents** with **$125.54B** in financial losses, affecting **3B+ users** globally. It provides real-time monitoring and actionable insights for cybersecurity professionals.
+This dashboard analyzes **50,000+ cyber incidents** with **$125.54B** in financial losses, affecting **3B+ users** globally. It provides actionable insights for cybersecurity professionals.
 
 ##  Key Metrics/KPIs
 - **Total Incidents**: 50K
@@ -26,8 +26,7 @@ This dashboard analyzes **50,000+ cyber incidents** with **$125.54B** in financi
 
 ### Data Model
 - Fact table: Incidents
-- Dimension tables: Date, Industry, Country, AttackType, Severity
-- Star schema design for optimal performance
+- Dimension tables: Industry, Country, AttackType, Severity
 
 ### Key DAX Measures
 - Incident counts by severity, affected users,total incidents
